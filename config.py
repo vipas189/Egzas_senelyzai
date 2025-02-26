@@ -1,0 +1,6 @@
+films_path = "data/films.pickle"
+reservations_path = "data/reservations_path"
+session_path = "data/session.pickle"
+organizatorius_path = "data/organizatorius.pickle"
+ziurovas_path = "data/ziurovas.pickle"
+rating_path = "data/rating.pickle"
