@@ -4,7 +4,8 @@ from views.interface import festivalis
 
 if getattr(sys, "frozen", False):
     os.chdir(sys._MEIPASS)  # pyright: ignore
-# Sveikas
+
+print("labas")
 
 
 def main():
